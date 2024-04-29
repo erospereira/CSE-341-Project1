@@ -18,6 +18,7 @@
   "homepage": "https://github.com/erospereira/CSE-341-Project1#readme",
   "dependencies": {
     "dotenv": "^16.4.5",
+    "express": "^4.19.2",
     "install": "^0.13.0",
     "mongodb": "^6.5.0"
   }
