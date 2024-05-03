@@ -2,13 +2,12 @@
   "swagger": "2.0",
   "info": {
     "title": "My API",
-    "description": "Temple API",
+    "description": "Users API",
     "version": "1.0.0"
   },
-  "host": "https://cse-341-project1-1.onrender.com",
+  "host": "cse-341-project1-1.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http",
     "https"
   ],
   "paths": {
